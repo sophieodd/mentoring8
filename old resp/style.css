@@ -220,6 +220,6 @@ body {
         opacity: 0; 
     }
     .nav-toggle:checked ~ .nav-burger .line:nth-child(3) { 
-        transform: rotate(45deg) translate(-5px, -6px); 
+        transform: rotate(45deg) translate(25px, 26px); 
     }
 }
